@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @StuckBot
+- 👋 Hi, I’m ~@StuckBot~ Rutvik
+- This is my old github account. This is my latest one: [@rutvik-gs](https://github.com/rutvik-gs)
 - 📫 How to reach me : https://www.linkedin.com/in/rutvik-g-b4b564173/
 
 <!---
